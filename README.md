@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Kaneki3399
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me kali linux
 
 <!---
 Kaneki3399/Kaneki3399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
